@@ -1,0 +1,19 @@
+.todo-app {
+    
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    padding: 20px;
+   margin: auto ;
+  }
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+}
